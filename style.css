@@ -1,0 +1,23 @@
+#The_chief {
+    width: 30%;
+    height: auto;
+}
+
+#header {
+    background-color: chocolate;
+    color: burlywood;
+    text-align: center;
+    font-family: monospace;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+#Pw {
+    color: orange;
+    font-size: 50px;
+}
+
+#MaC {
+    color: yellow;
+    font-size: 50px;
+}
